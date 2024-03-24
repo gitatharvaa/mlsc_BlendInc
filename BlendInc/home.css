@@ -34,7 +34,7 @@
 body{
     background: var(--background);
     -webkit-text-size-adjust: 100%;
-    -webkit-tap-highlight-color: #3a78ffec;
+    -webkit-tap-highlight-color: #f11a49ec;
 }
 button:focus,
 input:focus{
@@ -132,7 +132,7 @@ header{
 }
 .iconBox1 i:hover,
 .iconBox2 i:hover{
-    background: #1877f2;
+    background: #e81488;
     color: #d1deec;
     cursor: pointer;
 }
@@ -268,12 +268,12 @@ header{
     flex-direction: column;
 }
 .explore a{
-    color: #4575b3;
+    color: #b34545;
     margin-bottom: 15px;
     font-weight: 600;
 }
 .explore a:hover{
-    color: #1877f2;
+    color: #8a1b37;
 }
 .explore a i{
     margin-right: 10px;
@@ -340,7 +340,7 @@ header{
 }
 
 .home-center .mini-headign{
-    color: #1877f2;
+    color: red;
     margin-bottom: 10px;
 }
 .single-stories{
@@ -358,7 +358,7 @@ header{
     top: 0;
     border-radius: 50px;
     overflow: hidden;
-    border: 3px solid #1877f2;
+    border: 3px solid red;
 }
 .single-stories label img{
     width: 100%;
@@ -476,7 +476,7 @@ header{
 }
 .fb-post1-header .active{
     color: var(--black);
-    border-bottom: 3px solid #1877f2;
+    border-bottom: 3px solid red;
 }
 .fb-p1-main{
     display: flex;
@@ -597,7 +597,7 @@ header{
     flex-direction: column;
 }
 .heading{
-    color: #1877f2;
+    color: red;
     margin-bottom: 12px;
 }
 .heading span{
@@ -617,7 +617,7 @@ header{
     margin-bottom: 12px;
 }
 .event-date h3{
-    color: #1877f2;
+    color: red;
     text-align: center;
     line-height: 20px;
     margin-right: 10px;
